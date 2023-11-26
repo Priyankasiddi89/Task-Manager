@@ -1,4 +1,4 @@
-// controllers/userController.js
+
 const User = require('../models/user');
 
 // Register a new user
